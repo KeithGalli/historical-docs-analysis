@@ -6,3 +6,4 @@ ollama
 langchain
 langchain_openai
 pandas
+pyarrow
