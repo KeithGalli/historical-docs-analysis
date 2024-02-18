@@ -1,0 +1,8 @@
+transformers
+torch
+notebook
+ipywidgets
+ollama
+langchain
+langchain_openai
+pandas
