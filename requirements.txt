@@ -7,3 +7,4 @@ langchain
 langchain_openai
 pandas
 pyarrow
+matplotlib
